@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /RankingApp.Server/appsettings.json
+/RankingApp.Server/appsettings.Development.json
